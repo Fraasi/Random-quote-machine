@@ -1,4 +1,4 @@
-const endPoint = 'https://raw.githubusercontent.com/Fraasi/Random-quote-machine/gh-pages/quotes/quotes2.json';
+const endPoint = 'https://raw.githubusercontent.com/Fraasi/Random-quote-machine/gh-pages/quotes/quotes_data.json';
 
 var searchBox = document.querySelector('.searchBox');
 var list = document.querySelector('.list');
