@@ -75,6 +75,9 @@ button:focus {
 #search a:visited {
 	color: white;
 }
+#search a {
+	color: white;
+}
 #search {
 	width: 25px;
 }
