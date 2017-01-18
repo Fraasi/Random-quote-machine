@@ -1,13 +1,12 @@
 body {
   background-image: url("../images/tapestry2.jpg");
-  padding-top: 7%; 
 }
 #qbox {
 	width: 50%;
 	max-height: 500px;
 	background-color: black;
 	color: white;
-	margin: auto;
+	margin: 4% auto 0px auto;
 	padding: 0.5% 1.5% 1.2% 1.5%;
 	border-radius: 8px;
 	font-family: "cambria math";
@@ -72,4 +71,26 @@ button:focus {
 #select {
 	display: none;
 	text-align: center;
+}
+#search a:visited {
+	color: white;
+}
+#search {
+	width: 25px;
+}
+#tooltip {
+	display: none;
+	position: absolute;
+	top: 5px;
+	left: 30px;
+	background-color: black;
+	color:white;
+	padding: 5px;
+	border-radius: 8px;
+	font-family: "cambria math";
+	box-shadow: 1px 1px 35px 15px #000000;
+	border: 3px ridge grey;
+}
+#search:hover #tooltip {
+	display: block;
 }
