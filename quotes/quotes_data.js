@@ -746,6 +746,20 @@ var quotes = {
 
 "We Don’t See Things As They Are, We See Them As We Are.": "?",
 
-"No such thing as spare time, no such thing as free time, no such thing as down time, all you got is life time. <br> Go.": "Henry Rollins"
+"No such thing as spare time, no such thing as free time, no such thing as down time, all you got is life time. <br> Go.": "Henry Rollins",
+
+"Equality is a lie concocted by inferior people who arrange themselves in herds to overpower those who are naturally superior to them. The morality of 'equal rights' is a herd morality, and because it opposes the cultivation of superior individuals, it leads to the corruption of the human species.": "Friedrich Nietzsche",
+
+"Expect the best, prepare for the worst, that's how it should be. You all expect the worst and don't prepare at all.": "?",
+
+"Briefly stated, the Gell-Mann Amnesia effect is as follows. You open the newspaper to an article on some subject you know well. In Murray's case, physics. In mine, show business. You read the article and see the journalist has absolutely no understanding of either the facts or the issues. Often, the article is so wrong it actually presents the story backward—reversing cause and effect. I call these the \"wet streets cause rain\" stories. Paper's full of them.<br>In any case, you read with exasperation or amusement the multiple errors in a story, and then turn the page to national or international affairs, and read as if the rest of the newspaper was somehow more accurate about Palestine than the baloney you just read. You turn the page, and forget what you know.": "Michael Crichton",
+
+"If you gain a mature companion, a fellow traveler, right-living & wise, overcoming all dangers go with him, gratified, mindful. If you don't gain a mature companion, a fellow traveler, right-living & wise, wander alone like a king renouncing his kingdom, like the elephant in the Matanga wilds, his herd. We praise companionship — yes! Those on a par, or better, should be chosen as friends. If they're not to be found, living faultlessly, wander alone like a rhinoceros.": "Rhinoceros Sutta",
+
+"Lasten kohdalla se hoitoa tarvitseva on aina vanhempi, ydinperhemallissa lapsi on taysin riippuvainen vanhempiensa palautteesta ja mallista. Jos vanhemmassa on hairiokayttaytymista heijastuu se nopeasti lapseen.  Meilla on ongemana se, etta lapsilla on vain nama kaksi mallia. Tai ehka vain yksi. Se on heikko ja riskialtis malli, jossa lapsella ei valttamatta ole koskaan terveita esimerkkeja tai malleja elamassa. Pahimmillaan kasvaa koko lapsuutensa persoonallisuushairiosen vanhemman hoivissa ilman mitaan pakokeinoa tai normaaliuden kuvaa": "tohtori Apina",
+
+"Oikeuksia on jokaisella, mutta kenelläkään ei ole enää velvollisuuksia, vastuuta tai edes tervettä järkeä.": "Saku Timonen",
+
+"Gold is the money of kings, silver is the money of gentlemen, barter is the money of peasants – but debt is the money of slaves.": "Norm Franz"
 
 };
