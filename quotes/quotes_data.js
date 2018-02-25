@@ -112,8 +112,6 @@ var quotes = {
 
 "In a Native American parable, the Creator gathers all the animals and says: \"I want to hide something from humans until they are ready for it - the realization that they create their own reality - \"<br>\"Give it to me. I'll fly it to the moon,\" <br>says the eagle. \"No, one day soon they will go there and find it.\"<br>\"How about the bottom of the ocean?\"<br>asks the salmon. \"No, they will find it there too.\"<br>\"I will bury it in the great plains,\"<br>says the buffalo. \"They will soon dig and find it there.\"<br>\"Put it inside them,\"<br>says the wise grandmother mole. \"Done,\"says the Creator. \"It is the last place they will look.\"": "Native American Legend",
 
-"Just look at us. Everything is backwards; everything is upside down. Doctors destory health, lawyers destroy justice, universities destroy knowledge, governments destroy freedom, the major media destroy information and religions destroy spirituality.": "Michael Ellner",
-
 "Be very, very careful what you put into that head, because you will never, ever get it out.": "Thomas Cardinal Wolsey (1471-1530)",
 
 "You can only have power over people so long as you don’t take everything away from them. But when you’ve robbed a man of everything he’s no longer in your power – he’s free again.": "Aleksandr Solzhenitsyn",
@@ -206,7 +204,9 @@ var quotes = {
 
 "Confusion is a doorway to a new understanding.": "Richard Brandler",
 
-"Terrorism is the best political weapon for nothing drives people harder than a fear of sudden death.": "Adolf Hitler",
+"Terrorism is the best political weapon for nothing drives people harder than a fear of sudden death.": "?",
+
+"I remember saying once to Arthur Koestler, ‘History stopped in 1936’, at which he nodded in immediate understanding. We were both thinking of totalitarianism in general, but more particularly of the Spanish civil war. Early in life I have noticed that no event is ever correctly reported in a newspaper, but in Spain, for the first time, I saw newspaper reports which did not bear any relation to the facts, not even the relationship which is implied in an ordinary lie. I saw great battles reported where there had been no fighting, and complete silence where hundreds of men had been killed. I saw troops who had fought bravely denounced as cowards and traitors, and others who had never seen a shot fired hailed as the heroes of imaginary victories; and I saw newspapers in London retailing these lies and eager intellectuals building emotional superstructures over events that had never happened. I saw, in fact, history being written not in terms of what happened but of what ought to have happened according to various ‘party lines’.": "Eric Blair",
 
 "So we have consciousness and energy and a brain, and the resulting pattern is called mind. And mind is as vast as it perceives itself to be or as small as it perceives itself to be. If the mind gets so lofty that it feels alienated by the crippled reality around it, it will not operate here anymore; it will be beyond it. And that is what Christ was all about.": "Ramtha",
 
@@ -370,7 +370,9 @@ var quotes = {
 
 "All that you are is the result of all that you have thought.": "Buddha",
 
-"To love at all is to be vulnerable. Love anything and your heart will be wrung and possibly broken. If you want to make sure of keeping it intact you must give it to no one ... Wrap it carefully round with hobbies and little luxuries; avoid all entanglements. Lock it up safe in the casket or coffin of your selfishness. But in that casket, safe, dark, motionless, airless, it will change. It will not be broken; it will become unbreakable, impenetrable, irredeemable. To love is to be vulnerable.": "CS Lewis",
+"To love at all is to be vulnerable. Love anything and your heart will be wrung and possibly broken. If you want to make sure of keeping it intact you must give it to no one ... Wrap it carefully round with hobbies and little luxuries; avoid all entanglements. Lock it up safe in the casket or coffin of your selfishness. But in that casket, safe, dark, motionless, airless, it will change. It will not be broken; it will become unbreakable, impenetrable, irredeemable. To love is to be vulnerable.": "C.S. Lewis",
+
+"Deny it food and it will gobble poison.": "C.S. Lewis",
 
 "The loneliest people can be the kindest. The saddest people sometimes smile the brightest. The most damaged people are filled with wisdom. All because they do not wish the pain they've endured on another soul.": "Anonymous",
 
@@ -738,7 +740,12 @@ var quotes = {
 
 "If one meets a powerful person, ask them five questions: <br><br>- What power have you got?<br>- Where did you get it from?<br>- In whose interests do you exercise it?<br>- To whom are you accountable?<br>- And how can we get rid of you?<br><br>If you cannot get rid of the people who govern you, you do not live in a democratic system.": "Tony Benn",
 
-"No such thing as spare time, no such thing as free time, no such thing as down time, all you got is life time. <br> Go.": "Henry Rollins"
+"But if you are not experiencing mass hysteria, you might be totally confused by the actions of the people who are. They appear to be irrational, but in ways that are hard to define. You can’t tell if they are stupid, unscrupulous, ignorant, mentally ill, emotionally unstable or what. It just looks frickin’ crazy.": "Scott Adams",
 
+"Those who can make you believe absurdities can make you commit atrocities.": "Voltaire",
+
+"We Don’t See Things As They Are, We See Them As We Are.": "?",
+
+"No such thing as spare time, no such thing as free time, no such thing as down time, all you got is life time. <br> Go.": "Henry Rollins"
 
 };
