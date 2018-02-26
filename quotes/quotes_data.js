@@ -318,7 +318,7 @@ var quotes = {
 
 "Those who restrain desire. do so because theirs is weak enough to be restrained.": "William Blake",
 
-"Go, love without the help of anything in this earth": "William Blake",
+"Go, love without the help of anything in this earth.": "William Blake",
 
 "I must Create a System. or be enslav'd by another Mans.": "William Blake",
 
@@ -447,6 +447,12 @@ var quotes = {
 "I’ve often thought that there isn’t any ‘I’ at all; that we are simply the means of expression of something else; that when we think we are ourselves, we are simply the victims of a delusion.": "Aleister Crowley",
 
 "The true business of people should be to go back to school and think about whatever it was they were thinking about before somebody came along and told them they had to earn a living.": "Buckminster Fuller",
+
+"You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.": "Buckminster Fuller",
+
+"When I am working on a problem, I never think about beauty but when I have finished, if the solution is not beautiful, I know it is wrong.": "Buckminster Fuller",
+
+"Ninety-nine percent of who you are is invisible and untouchable.": "Buckminster Fuller",
 
 "Nations whose nationalism is destroyed are subject to ruin.": "Muammar al-Gaddafi",
 
