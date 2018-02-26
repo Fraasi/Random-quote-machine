@@ -10,7 +10,7 @@ length.innerHTML = quotesArr.length;
 function runSearch() {
 	if (this.value.length < 2) {
 		found.innerHTML = '_';
-		list.innerHTML = 'This search (<i class="fa fa-search" aria-hidden="true"></i>) is a little addendum to <a href="../index.html" target="_blank">this quote machine</a>.';
+		list.innerHTML = 'This search (<i class="fa fa-search" aria-hidden="true"></i>) is a little addendum to <a href="../index.html">this quote machine</a>.';
 		return;
 	}
 	

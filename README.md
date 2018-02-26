@@ -11,4 +11,4 @@ or click the bottom left # to a get list of authors by number of quotes and get 
 v2 With a separate live search page to find all the quotes with certain word(s).
 Click top left magnifiying icon to get to search page.
 
-[Live demo here](https://fraasi.github.io/Random-quote-machine/)
+[Live here](https://fraasi.github.io/Random-quote-machine/)
