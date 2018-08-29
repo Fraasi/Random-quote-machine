@@ -20,6 +20,8 @@ var quotes = {
 
 "The time for petty politics is over: the very next century will bring the fight for the dominion of the earth -- the compulsion to large-scale politics.": "Friedrich Nietzsche",
 
+"When we are tired, we are attacked by ideas we conquered long ago.": "Friedrich Nietzsche",
+
 "It is not important whether man is descended from apes; it is much more important, that he does not return there.": "Richard Wagner",
 
 "Why were our ancestors saner and positively productive? Its a good question. Why were they less aggressive, acquisitive, and destructive? Why were they closer to nature? What is wrong with the way you exist? Well, the psychologists and sociologists of merit have been telling you for years. You are disassociated. You have infantile amnesia and inhabit an abstraction that is an anti-life. You are dead to the real and alive to the simulacra. You are outer-directed and always on the go, racing headlong toward your graves as if eager to get to them. You've replaced experience with reaction, intimacy with performance.": "Michael Tsarion",
@@ -282,6 +284,8 @@ var quotes = {
 
 "The good ended happily, and the bad unhappily. That is what fiction means.": "Oscar Wilde",
 
+"Most people are other people. Their thoughts are someone else's opinion. Their lives a mimicry. Their passions a quotation.": "Oscar Wilde",
+
 "Dharma is the study of what IS, and the only way you can find out what is true is through studying yourself.": "Pema Chädrän",
 
 "Telepathy is you seeing what somebody else means.": "Terence Mckenna",
@@ -388,7 +392,9 @@ var quotes = {
 
 "It also gives us a very special, secret pleasure to see how unaware the people around us are of what is really happening to them.": "Adolf Hitler",
 
-"There are worse things than being alone but it often takes decades to realize this and most often when you do it’s too late and there’s nothing worse than too late.": "Bukowski",
+"There are worse things than being alone but it often takes decades to realize this and most often when you do it’s too late and there’s nothing worse than too late.": "Charles Bukowski",
+
+"We don’t even ask happiness, just a little less pain.": "Charles Bukowski",
 
 "We join spokes together in a wheel, <br> but it is the center hole<br> that makes the wagon move.<br> <br>We shape clay into a pot,<br> but it is the emptiness inside<br> that holds whatever we want.<br> <br>We hammer wood for a house,<br> but it is the inner space<br> that makes it a home.<br> <br>We work with being,<br> but non-being is what we use.": "Lao Tzu",
 
@@ -524,6 +530,9 @@ var quotes = {
 "The doctrine of equality! … But there is no more venomous poison in existence: for it appears to be preached by justice itself, when it is actually the end of justice … \"Equality to the equal; inequality to the unequal\" — that would be true justice speaking: and its corollary, \"never make the unequal equal\".":
 "Friedrich Nietzsche",
 
+"Today a young man on acid realized that all matter is merely energy condensed to a slow vibration. That we are all one consciousness experiencing itself subjectively. There is no such thing as death, life is only a dream, and we’re the imagination of ourselves.":
+"Bill Hicks",
+
 "...says we are losing the war on drugs. you know what that implies. There's a war being fought and people on drugs are winning it.... What does that tell you about drugs? Some smart creative people on that side. They're winning a war and they're fucked up.":
 "Bill Hicks",
 
@@ -596,7 +605,11 @@ var quotes = {
 
 "If you don't live it, it won't come out your horn.": "Charlie Parker",
 
-"Insanity -- a perfectly rational adjustment to an insane world.": "R. D. Lang",
+"Insanity -- a perfectly rational adjustment to an insane world.": "R. D. Laing",
+
+"Human beings seem to have an almost unlimited capacity to deceive themselves, and to deceive themselves into taking their own lies for truth.": "R. D. Laing",
+
+"The range of what we think and do is limited by what we fail to notice. And because we fail to notice that we fail to notice, there is little we can do to change; until we notice how failing to notice shapes our thoughts and deeds.": "R. D. Laing",
 
 "In every culture and in every medical tradition before ours, healing was accomplished by moving energy.": "Albert Szent-Gyorgyi, Nobel Laureate in Medicine (1937)",
 
@@ -627,7 +640,7 @@ var quotes = {
 
 "Signs and symbols control the world, not phrases and laws.": "Confucius (551-479 BC)",
 
-"The whole world's insane and I'm proud to be partof it.": "Bill Hicks",
+"The whole world's insane and I'm proud to be part of it.": "Bill Hicks",
 
 "Give me six lines written by the most honorable of men, and I will find an excuse in them to hang him.": "Cardinal Richelieu",
 
@@ -730,6 +743,8 @@ var quotes = {
 
 "If we are here to help the others, then what exactly are the others for?": "Mark Twain",
 
+"In religion and politics people’s beliefs and convictions are in almost every case gotten at second-hand, and without examination, from authorities who have not themselves examined the questions at issue but have taken them at second-hand from other non-examiners, whose opinions about them were not worth a brass farthing.": "Mark Twain",
+
 "Everything the power of the world does is done in a circle. The sky is round, and I have heard that the earth is round like a ball, and so are all the stars. The wind, in its greatest power, whirls. Birds make their nests in circles, for theirs is the same religion as ours. The sun comes forth and goes down again in a circle. The moon does the same, and both are round. Even the seasons form a great circle in their changing, and always come back again to where they were. The life of a man is a circle from childhood to childhood, and so it is in everything where power moves. Our tipis are round like the nests of birds, and these are always set in a circle, the nation's hoop, a nest of many nests, where the Great Spirit meant for us to hatch our children. But the Wasichus have put us in square boxes. Our power is gone and we are dying, for the power is not in us any more.": "Black Elk",
 
 "If you go home with someone, and they don’t have any books, don’t fuck them.": "John Waters",
@@ -765,6 +780,8 @@ var quotes = {
 "Lasten kohdalla se hoitoa tarvitseva on aina vanhempi, ydinperhemallissa lapsi on taysin riippuvainen vanhempiensa palautteesta ja mallista. Jos vanhemmassa on hairiokayttaytymista heijastuu se nopeasti lapseen.  Meilla on ongemana se, etta lapsilla on vain nama kaksi mallia. Tai ehka vain yksi. Se on heikko ja riskialtis malli, jossa lapsella ei valttamatta ole koskaan terveita esimerkkeja tai malleja elamassa. Pahimmillaan kasvaa koko lapsuutensa persoonallisuushairiosen vanhemman hoivissa ilman mitaan pakokeinoa tai normaaliuden kuvaa": "tohtori Apina",
 
 "Oikeuksia on jokaisella, mutta kenelläkään ei ole enää velvollisuuksia, vastuuta tai edes tervettä järkeä.": "Saku Timonen",
+
+"Ihmisoikeudet ovat rupusakkia varten; kunnon ihmiset kun eivät joudu niiden kanssa tekemisiin.": "?",
 
 "Gold is the money of kings, silver is the money of gentlemen, barter is the money of peasants – but debt is the money of slaves.": "Norm Franz"
 
