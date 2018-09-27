@@ -12,7 +12,7 @@ var quotes = {
 
 "Inspiration is for amateurs. I just get to work.": "Chuck Close",
 
-"I can’t sleep": "last words by: J. M. Barrie, author of Peter Pan",
+"I can’t sleep": "J. M. Barrie (last words)",
 
 "Peter: Don't be upset about the parachute, I'll have my wings soon anyway, big white ones. I hope it hasn't gone all modern, I'd hate to have a propeller instead of wings!": "Some old movie I forgot",
 
@@ -68,7 +68,7 @@ var quotes = {
 
 "Men rise from one ambition to another. First they seek to secure themselves from attack, and then they attack others.": "Nicolo Machiavelli",
 
-"If the day should ever come when the Nazis must go, if some day we are compelled to leave the scene of history, we will slam the door so hard that the universe will shake and mankind will stand back in stupification.": "Josef Göbbels",
+"If the day should ever come when the Nazis must go, if some day we are compelled to leave the scene of history, we will slam the door so hard that the universe will shake and mankind will stand back in stupification.": "Josef Goebbels",
 
 "When you see that trading is done, not by consent, but by compulsion—when you see that in order to produce, you need to obtain permission from men who produce nothing—when you see that money is flowing to those who deal, not in goods, but in favors—when you see that men get richer by graft and by pull than by work, and your laws don’t protect you against them, but protect them against you—when you see corruption being rewarded and honesty becoming a self-sacrifice—you may know that your society is doomed.": "Ayn Rand",
 
@@ -118,9 +118,9 @@ var quotes = {
 
 "You can only have power over people so long as you don’t take everything away from them. But when you’ve robbed a man of everything he’s no longer in your power – he’s free again.": "Aleksandr Solzhenitsyn",
 
-"When the mob governs, man is ruled by ignorance; when the church governs, he is ruled by superstition; and when the state governs, he is ruled by fear. Before men can live together in harmony and understanding, ignorance must be transmuted into wisdom, superstition into an illuminated faith, and fear into love.": "Manley P. Hall, 1918",
+"When the mob governs, man is ruled by ignorance; when the church governs, he is ruled by superstition; and when the state governs, he is ruled by fear. Before men can live together in harmony and understanding, ignorance must be transmuted into wisdom, superstition into an illuminated faith, and fear into love.": "Manley Palmer Hall",
 
-"When you are angry, you cannot be correct. When you are frightened, you cannot be correct; when there is something you desire, you cannot be correct; when there is something you are anxious about, you cannot be correct. When the mind is not present, we look, but do not see. We listen, but do not hear, we eat, but don't taste our food. This is the meaning of \"the cultivation of the person lies in the correction of the mind.\"": "Confucius, The Great Learning",
+"When you are angry, you cannot be correct. When you are frightened, you cannot be correct; when there is something you desire, you cannot be correct; when there is something you are anxious about, you cannot be correct. When the mind is not present, we look, but do not see. We listen, but do not hear, we eat, but don't taste our food. This is the meaning of \"the cultivation of the person lies in the correction of the mind.\"": "Confucius",
 
 "What spirit is so empty and blind, that it cannot recognize the fact that the foot is more noble than the shoe, and skin more beautiful than the garment with which it is clothed?": "Michelangelo",
 
@@ -130,7 +130,11 @@ var quotes = {
 
 "It's downright amazing: A biomedical engineer at Boston University has developed a so-called \"artificial pancreas\" that helps diabetics maintain balanced blood sugar levels by monitoring the blood and releasing either insulin or glucagon as needed. Now all those people who eat artificial food advertised through artificial worlds on television can add an artificial pancreas to their artificial health care plan.": "Mike Adams",
 
-"In symbolism, an inverted figure always signifies a perverted power (…) Black magic is not a fundamental art; it is the misuse of an art. Therefore it has no symbols of its own. It merely takes the emblematic figures of white magic, and by inverting and reversing them signifies that it is left-handed.": "Manly P. Hall, Secret Teachings of All Ages",
+"In symbolism, an inverted figure always signifies a perverted power (…) Black magic is not a fundamental art; it is the misuse of an art. Therefore it has no symbols of its own. It merely takes the emblematic figures of white magic, and by inverting and reversing them signifies that it is left-handed.": "Manly Palmer Hall",
+
+"The most effective way to destroy people is to deny and obliterate their own understanding of their history.": "George Orwell",
+
+"Totalitarianism: 'A society living by and for continuous warfare in which the ruling class have ceased to have any real function but succeed in clinging to power through force and fraud.'": "George Orwell",
 
 "Adulthood is only achieved when a person grasps the level of maturity necessary to allow their inner expressions to override external influences. An adult is someone who can achieve their own health, learning, happiness or bliss without needing to turn to external (artificial) stimulations to mimic such conditions": "Anonymous",
 
@@ -436,7 +440,7 @@ var quotes = {
 
 "We're just doing what we do, re-enacting life as we live it.": "Colin Quinn",
 
-"Yhteistyö on mahdollista, ei tarvitse suoriutua yksin. <br>Tuli palaa vaikka nuotio on sammunut, rauhaa ei tarvitse etsiä metsästä.<br>Se, että polkua ei näe, ei tarkoita, etteikö polkua olisi olemassa.": "2013 pajalaiset",
+"Yhteistyö on mahdollista, ei tarvitse suoriutua yksin. <br>Tuli palaa vaikka nuotio on sammunut, rauhaa ei tarvitse etsiä metsästä.<br>Se, että polkua ei näe, ei tarkoita, etteikö polkua olisi olemassa.": "?",
 
 "One is not on ones path if not alone. If not alone one is mostly on somebody else’s path.": "Anonymous",
 
@@ -573,9 +577,11 @@ var quotes = {
 
 "If you use your mind to study reality, you won’t understand either your mind or reality. If you study reality without using your mind, you’ll understand both.": "Bodhidharma",
 
-"The price of anything is the amount of life you exchange for it.": "Henry David Thoreau",
+"Those who worship don't know, and those who know don't worship.": "Bodhidharma",
 
 "Words are illusions.": "Bodhidharma",
+
+"The price of anything is the amount of life you exchange for it.": "Henry David Thoreau",
 
 "Sankarin pitää tehdä selvä ero menneisyyteen. Seikkailun käynnistää aina kriisi. Muuten ei ole tarinaa. Jos on tyytyväinen saamiinsa vastauksiin, voi pysyä kotona. Kriisi aloittaa matkan. Matka on irtiotto kaikesta, joka on ollut sankarille aiemmin tuttua ja kuljettaa hahmoa vastapäivään. Matka etenee aikaa ja tilaa vastaan, minkä vuoksi suuret tarinat ovat ajattomia.":
 "Joseph Campbell: Klassinen sankarin matka",
@@ -638,7 +644,7 @@ var quotes = {
 
 "When told that man lives in delusion everyone thinks of himself as the exception – hence his delusion.": "Vernon Howard",
 
-"Signs and symbols control the world, not phrases and laws.": "Confucius (551-479 BC)",
+"Signs and symbols control the world, not phrases and laws.": "Confucius",
 
 "The whole world's insane and I'm proud to be part of it.": "Bill Hicks",
 
@@ -646,7 +652,7 @@ var quotes = {
 
 "Voisin elää pähkinänkuoreen suljettuna ja kuitenkin tuntea itseni äärettömien avaruuksien valtiaaksi, ellei näitä pahoja unia olisi.": "Hamlet",
 
-"I've been so thoroughly trained, I don't even have to think befofre I speak.": "Harry Crumb",
+"I've been so thoroughly trained, I don't even have to think before I speak.": "Harry Crumb",
 
 "Great minds drink alike.": "Al Bundy",
 
@@ -772,6 +778,72 @@ var quotes = {
 "Equality is a lie concocted by inferior people who arrange themselves in herds to overpower those who are naturally superior to them. The morality of 'equal rights' is a herd morality, and because it opposes the cultivation of superior individuals, it leads to the corruption of the human species.": "Friedrich Nietzsche",
 
 "Expect the best, prepare for the worst, that's how it should be. You all expect the worst and don't prepare at all.": "?",
+
+"Anti-social behaviour is a trait of intelligence in a  world full of conformists.": "Nikola Tesla",
+
+"Religion is not the belief there is a God, religion is the belief God tells you what to do.": "Christopher Hitchens",
+
+"In fact, it is the fully sane person who feels isolated in the insane society — and he may suﬂer so much from the incapacity to communicate that it is he who may become psycholic.": "Erich Fromm",
+
+"Most human beings have an almost infinite capacity for taking things for granted. That men do not learn very much from the lessons of history is the most important of all the lessons of history.": "Aldous Huxley",
+
+"Why does man not see things as they are? — because he is himself standing in the way: he conceals things.": "Friedrich Nietzsche",
+
+"Who can free himself from achievement, and from fame, descend and be losl, amld the 'masses of men? He will ﬂow like Tao, unseen, he will go aboul like Life itself with no name and no home. Simple he is, without distinction. To all appearances he is a fool. His steps leave no trace. He has no power. He achieves nothing, has no reputation. Since he judges no one, no one judges him. Such is the perfect man. His boat is empty.": "Zhuang Zhou",
+
+"In searching for a new enemy to unite us, we came up with the idea that pollution, the threat of global warming, water shortages, famine and the like would fit the bill.": "Aurelio Peccei, founder of the club of rome, quoted in the first global revolution, 1991",
+
+"They reel to and fro, and stagger like a drunken man, and are at their wits' end.": "Bible, Psalm 107:27",
+
+"The earth shall reel to and fro like a drunkard.": "Bible, Isaiah 24:20",
+
+"Divide the world into regional groups as a transitional stage to world government. Populations will more readily abandon their national loyalty to a vague regional loyalty than they will for a world authority. Later the regions can be brought together all the way into a single world dictatorship.": "Josef Stalin",
+
+"Let us agree, there is no one single reality. Not upon this stage, not in this world, all is in the mind... Imagination is the only truth, because it cannot be contradicted except by other imaginations.": "Richard Matheson",
+
+"The history of our race, and each individual's experience, are sown thick with evidence that a truth is not hard to kill and that a lie told well is immortal.": "Mark Twain",
+
+"My natural response to anything emotionally demanding is to detach. I can be very intolerant and that comes from liking things to be just so. I love the theatre but I always go on my own. Anything which feeds one's soul has to be done alone.": "Derren Brown",
+
+"The surest way to corrupt a youth is to instruct him to hold in higher esteem those who 'think alike than those who think differently.": "Friedrich Nietzsche",
+
+"It is the mark of an educated mind, to be able to entertain a thought; a without accepting it.": "Aristotle",
+
+"Physicist are trained to investigate a problem before arriving at a decision. Lawyers, advertisers and others are trained to do exactly the opposite: to seek data to confirm a determination that has already been made.": "Robert Crease",
+
+"A paranoid is someone who knows a little of what's going on. A psychotic is a guy who's just found out what's going on.": "William S. Burroughs",
+
+"We will force this war upon Hitler, if he wants it or not.": "Winston Churchill, 1936 broadcast",
+
+"The nature of the universe is such that ends can never justify the means. On the contrary, the means always determine the end.": "Aldous Huxley",
+
+"If a believer demands that I, as a nonbeliever, observe his taboos in the public domain, he is not asking for my respect, but for my submission.": "Flemming Rose",
+
+"Awakenlng is possible only for those who seek it and want it, for those who are ready to struggle with themselves and work on themselves for a very long time and very persistently in order to attain it.": "G.I. Gurdjieff",
+
+"Those who do not think will always be manipulated and controlled by those who do.": "Michael Tsarion",
+
+"The love that you withhold is the pain that you carry.": "Alex Collier  ",
+
+"We have been all wrong. What we have called matter is energy, whose vibration has been lowered as to be perceptible to the senses.": "Albert Einstein",
+
+"It is impossible to enslave man merely by slaving his body. The mind also must be held, and to accomplish this, fear is the accepted weapon. The common man must fear life, fear death, fear god. fear the devil. and fear most the overlords, the keepers of his destiny.": "Manly Palmer Hall",
+
+"The main thing to understand is that we are imprisoned in some kind of work of art.": "Terence Mckenna",
+
+"A society whose citizens refuse to see and investigate the facts, who refuse to believe that their government and their media will routinely lie to them and fabricate a reality contrary to verifiable facts. is a society that chooses and deserves the police state dictatorship it‘s going to get.": "Ian Williams Goddard",
+
+"On a planet that increasingly resembles one huge maximum security prison, the only intelligent choice is to plan a jail break.": "Robert Anton Wilson",
+
+"Art is, like magic, the science of manipulating symbols, words or images, to achieve changes in consciousness… Indeed to cast a spell is simply to spell, to manipulate words, to change peoples consciousness, and this is why I believe that an artist or writer is the closest thing in the contemporary world to a shaman.": "Alan Moore",
+
+"Read everything, listen to everybody, believe nothing, unless you can prove it with your own research.": "William Cooper",
+
+"Humanity would sink into eternal darkness, it would fall into a dull and primitive state, were the jews to win this war.": "Joseph Goebbels",
+
+"We didn't invent the wheel, the wheel invented us.": "Claudia Pavonis",
+
+"Our generation is the first ever to have made the search for self-awareness a crime.": "Alexander Shulgin",
 
 "Briefly stated, the Gell-Mann Amnesia effect is as follows. You open the newspaper to an article on some subject you know well. In Murray's case, physics. In mine, show business. You read the article and see the journalist has absolutely no understanding of either the facts or the issues. Often, the article is so wrong it actually presents the story backward—reversing cause and effect. I call these the \"wet streets cause rain\" stories. Paper's full of them.<br>In any case, you read with exasperation or amusement the multiple errors in a story, and then turn the page to national or international affairs, and read as if the rest of the newspaper was somehow more accurate about Palestine than the baloney you just read. You turn the page, and forget what you know.": "Michael Crichton",
 
