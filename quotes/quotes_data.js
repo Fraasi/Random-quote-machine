@@ -2,9 +2,9 @@ var quotes = {
 
 "Just look at us. Everything is backwards, everything is upside down. Doctors destroy health, lawyers destroy justice, psychiatrists destroy minds, scientists destroy truth, major media destroys information, religions destroy spirituality and governments destroy freedom.": "Michael Ellner",
 
-"Tax his tobacco, <br>Tax his drink, <br>Tax him if he Tries to think.<br><br>Tax his cigars,<br>Tax his beers,<br>If he cries<br>Tax his tears.": "Charlie Reese",
+"Tax his tobacco, Tax his drink, Tax him if he Tries to think. Tax his cigars, Tax his beers, If he cries Tax his tears.": "Charlie Reese",
 
-"Ishmael says: <br>There's nothing fundamentally wrong with people. Given a story to enact that puts them in accord with the world, they will live in accord with the world. But given a story to enact that puts them at odds with the world, as yours does, they will live at odds with the world. Given a story to enact in which they are the lords of the world, they will act as the lords of the world. And, given a story to enact in which the world is a foe to be conquered, they will conquer it like a foe, and one day, inevitably, their foe will lie bleeding to death at their feet, as the world is now.": "Daniel Quinn",
+"Ishmael says: There's nothing fundamentally wrong with people. Given a story to enact that puts them in accord with the world, they will live in accord with the world. But given a story to enact that puts them at odds with the world, as yours does, they will live at odds with the world. Given a story to enact in which they are the lords of the world, they will act as the lords of the world. And, given a story to enact in which the world is a foe to be conquered, they will conquer it like a foe, and one day, inevitably, their foe will lie bleeding to death at their feet, as the world is now.": "Daniel Quinn",
 
 "You crave a relationship because you have none with yourself.": "Michael Tsarion",
 
@@ -29,6 +29,8 @@ var quotes = {
 "Cancer was practically unknown until the cowpox vaccination began to be introduced... I have seen 200 cases of cancer, and never saw a case in an unvaccinated person.": "W.B. Clark, New York Times 1909",
 
 "One does not become enlightened by imagining figures of light, but by making the darkness conscious.": "Carl Gustav Jung",
+
+"Loneliness does not come from having no people about one, but from being unable to communicate the things that seem important to oneself, or from holding certain views which others find inadmissible.": "Carl Gustav Jung",
 
 "Any culture that destroys its own life support systems and calls that progress is totally insane.": "John Croft",
 
@@ -74,7 +76,7 @@ var quotes = {
 
 "If you are going to tell people the truth, you’d better make them laugh. Otherwise they’ll kill you.": "George Bernard Shaw",
 
-"Sometimes it is hard to live with these two wolves inside me, for both of them try to dominate my spirit. The boy looks into his Grandfather’s eyes and asks, \"Which one wins, Grandfather? <br> His grandfather replies, \"Whichever one I feed.": "Old Cherokee legend",
+"Sometimes it is hard to live with these two wolves inside me, for both of them try to dominate my spirit. The boy looks into his Grandfather’s eyes and asks, \"Which one wins, Grandfather?  His grandfather replies, \"Whichever one I feed.": "Old Cherokee legend",
 
 "Realization is nothing to be gained afresh; it is already there. All that is necessary is to get rid of the thought `I have not realized'.": "Sri Ramana Maharshi",
 
@@ -92,7 +94,7 @@ var quotes = {
 
 "I leave symbols for the simple minded.": "George Carlin",
 
-"The last temptation is the greatest treason<br>To do the right thing for the wrong reason.": "T.S. Eliot",
+"The last temptation is the greatest treason. To do the right thing for the wrong reason.": "T.S. Eliot",
 
 "There’s a time when the operation of the machine becomes so odious, makes you so sick at heart, that you can’t take part, you can’t even passively take part, and you’ve got to put your bodies on the gears and upon the wheels, upon the levers, upon all the apparatus, and you’ve got to make it stop! And you’ve got to indicate to the people who run it, to the people who own it, that unless you’re free, the machine will be prevented from working at all!": "Mario Savio",
 
@@ -112,7 +114,7 @@ var quotes = {
 
 "We form an association of brothers in all points of the globe…Yet there is one unseen that can hardly be felt, yet it weighs on us. Whence comes it? Where is it? No one knows…or at least no one tells. This association is secret even to us the veterans of the Secret Societies": "Guiseppe Mazzini (Head of the Bavarian Illuminati 1800s. Successor to Weishaupt)",
 
-"In a Native American parable, the Creator gathers all the animals and says: \"I want to hide something from humans until they are ready for it - the realization that they create their own reality - \"<br>\"Give it to me. I'll fly it to the moon,\" <br>says the eagle. \"No, one day soon they will go there and find it.\"<br>\"How about the bottom of the ocean?\"<br>asks the salmon. \"No, they will find it there too.\"<br>\"I will bury it in the great plains,\"<br>says the buffalo. \"They will soon dig and find it there.\"<br>\"Put it inside them,\"<br>says the wise grandmother mole. \"Done,\"says the Creator. \"It is the last place they will look.\"": "Native American Legend",
+"In a Native American parable, the Creator gathers all the animals and says: \"I want to hide something from humans until they are ready for it - the realization that they create their own reality - \" \"Give it to me. I'll fly it to the moon,\" says the eagle. \"No, one day soon they will go there and find it.\" \"How about the bottom of the ocean?\" asks the salmon. \"No, they will find it there too.\" \"I will bury it in the great plains,\" says the buffalo. \"They will soon dig and find it there.\" \"Put it inside them,\" says the wise grandmother mole. \"Done,\"says the Creator. \"It is the last place they will look.\"": "Native American Legend",
 
 "Be very, very careful what you put into that head, because you will never, ever get it out.": "Thomas Cardinal Wolsey (1471-1530)",
 
@@ -129,6 +131,8 @@ var quotes = {
 "We are what we repeatedly do. Excellence, then, is not an act, but a habit.": "Aristotle",
 
 "It's downright amazing: A biomedical engineer at Boston University has developed a so-called \"artificial pancreas\" that helps diabetics maintain balanced blood sugar levels by monitoring the blood and releasing either insulin or glucagon as needed. Now all those people who eat artificial food advertised through artificial worlds on television can add an artificial pancreas to their artificial health care plan.": "Mike Adams",
+
+"I must study politics and war that my sons may have liberty to study mathematics and philosophy. My sons ought to study mathematics and philosophy, geography, natural history, naval architecture, navigation, commerce, and agriculture, in order to give their children a right to study painting, poetry, music, architecture, statuary, tapestry, and porcelain.": "John Adams",
 
 "In symbolism, an inverted figure always signifies a perverted power (…) Black magic is not a fundamental art; it is the misuse of an art. Therefore it has no symbols of its own. It merely takes the emblematic figures of white magic, and by inverting and reversing them signifies that it is left-handed.": "Manly Palmer Hall",
 
@@ -178,7 +182,9 @@ var quotes = {
 
 "Reality is a thin line between denial and paranoia.": "Anonymous",
 
-"Go away. I'm all right.": "H. G. Wells (Last words)",
+"Go away. I'm all right. (Last words)": "H. G. Wells",
+
+"It is a law of nature we overlook, that intellectual versatility is the compensation for change, danger, and trouble. An animal perfectly in harmony with its environment is a perfect mechanism. Nature never appeals to intelligence until habit and instinct are useless. There is no intelligence where there is no change and no need of change. Only those animals partake of intelligence that have to meet a huge variety of needs and dangers.": "H. G. Wells",
 
 "Success seems to be largely a matter of hanging on after others have let go.": "William Feather",
 
@@ -254,7 +260,7 @@ var quotes = {
 
 "We are weighed down, every moment, by the conception and the sensation of Time. And there are but two means of escaping and forgetting this nightmare: pleasure and work. Pleasure consumes us. Work strengthens us. Let us choose. ": "Charles Baudelaire",
 
-"You must always be high. Everything depends on it: it is the only question. So as not to feel the horrible burden of Time wrecking your back and bending you to the ground, you must get high without respite. <br>But on what? On wine, on poetry, or on virtue, whatever you like. But get high.": "?",
+"You must always be high. Everything depends on it: it is the only question. So as not to feel the horrible burden of Time wrecking your back and bending you to the ground, you must get high without respite. But on what? On wine, on poetry, or on virtue, whatever you like. But get high.": "?",
 
 "What I cannot create, I do not understand.": "Richard Feynman",
 
@@ -294,7 +300,7 @@ var quotes = {
 
 "Telepathy is you seeing what somebody else means.": "Terence Mckenna",
 
-"Dr. Royer-Collard: I won't sully my hands with him. <br> Marquis de Sade: Nor should you. That's the first rule of politics, isn't it? The man who drops the execution never drops the blade.": "Quills, movie",
+"Dr. Royer-Collard: I won't sully my hands with him. Marquis de Sade: Nor should you. That's the first rule of politics, isn't it? The man who drops the execution never drops the blade.": "Quills, movie",
 
 "The pressure is like a truck parked on your balls.": "Dave Mustaine",
 
@@ -302,7 +308,7 @@ var quotes = {
 
 "Imagination is saving me from the world I despise.": "Morriperkele",
 
-"The first condition - there needs to be an outside influence to bring them together.<br> The second condition - the entities must have voids. <br> The third condition - each entity must have the ability to fill the others’ void.": "?",
+"The first condition - there needs to be an outside influence to bring them together. The second condition - the entities must have voids. The third condition - each entity must have the ability to fill the others’ void.": "?",
 
 "When I mount the scaffold at last these will be my farewell words to the sheriff: Say what you will against me when I am gone, but don’t forget to add, in common justice, that I was never converted to anything.": "H.L Mencken",
 
@@ -394,13 +400,17 @@ var quotes = {
 
 "Follow your bliss and don't be afraid, and doors will open where you didn't know they were going to be.": "Joseph Campbell",
 
+"Myth is much more important and true than history. History is just journalism and you know how reliable that is.": "Joseph Campbell",
+
+"Nietzsche was the one who did the job for me. At a certain moment in his life, the idea came to him of what he called 'the love of your fate.' Whatever your fate is, whatever the hell happens, you say, 'This is what I need.' It may look like a wreck, but go at it as though it were an opportunity, a challenge. If you bring love to that moment - not discouragement - you will find the strength is there. Any disaster you can survive is an improvement in your character, your stature, and your life. What a privilege! This is when the spontaneity of your own nature will have a chance to flow.": "Joseph Campbell",
+
 "It also gives us a very special, secret pleasure to see how unaware the people around us are of what is really happening to them.": "Adolf Hitler",
 
 "There are worse things than being alone but it often takes decades to realize this and most often when you do it’s too late and there’s nothing worse than too late.": "Charles Bukowski",
 
 "We don’t even ask happiness, just a little less pain.": "Charles Bukowski",
 
-"We join spokes together in a wheel, <br> but it is the center hole<br> that makes the wagon move.<br> <br>We shape clay into a pot,<br> but it is the emptiness inside<br> that holds whatever we want.<br> <br>We hammer wood for a house,<br> but it is the inner space<br> that makes it a home.<br> <br>We work with being,<br> but non-being is what we use.": "Lao Tzu",
+"We join spokes together in a wheel, but it is the center hole that makes the wagon move. We shape clay into a pot, but it is the emptiness inside that holds whatever we want. We hammer wood for a house, but it is the inner space that makes it a home. We work with being, but non-being is what we use.": "Lao Tzu",
 
 "Don’t vote, it encourages them.": "Billy Connolly",
 
@@ -428,9 +438,9 @@ var quotes = {
 
 "What is Grand is necessarily obscure to Weak men. That which can be made Explicit to the idiot is not worth my care.": "William Blake",
 
-"In the ´70s, when we wandered up the hill to Kopan Monastery in Nepal in various states of drug- and alcohol-induced intoxication, we would ask Lama Yeshe, \"What do you think about drugs, alcohol, and meditation? They make us more relaxed so it’s easier to watch our breath, and our visualizations are so much more vivid when we’re stoned.\" <br>Lama, looking at us with an expression that was quizzically serious, would say, \"You don’t need drugs, dear. You’re already hallucinating.\" <br> Then, when we stopped laughing, he explained that intoxicants and meditation don’t go together. \"Intoxicants take you away from reality; meditation takes you toward reality. Which do you want? You are already intoxicated by ignorance, anger, and attachment and suffer as a result. Why do you want to take more intoxicants?": "Bhikshuni Thubten Chodron author, Tibetan Buddhist nun, and founder of Sravasti Avvey",
+"In the ´70s, when we wandered up the hill to Kopan Monastery in Nepal in various states of drug- and alcohol-induced intoxication, we would ask Lama Yeshe, \"What do you think about drugs, alcohol, and meditation? They make us more relaxed so it’s easier to watch our breath, and our visualizations are so much more vivid when we’re stoned.\" Lama, looking at us with an expression that was quizzically serious, would say, \"You don’t need drugs, dear. You’re already hallucinating.\" Then, when we stopped laughing, he explained that intoxicants and meditation don’t go together. \"Intoxicants take you away from reality; meditation takes you toward reality. Which do you want? You are already intoxicated by ignorance, anger, and attachment and suffer as a result. Why do you want to take more intoxicants?": "Bhikshuni Thubten Chodron author, Tibetan Buddhist nun, and founder of Sravasti Avvey",
 
-"Yvonne: Where were you last night?<br>Rick: That's so long ago, I don't remember.<br>Yvonne: Will I see you tonight?<br>Rick: I never make plans that far ahead.": "Casablanca, movie",
+"Yvonne: Where were you last night? Rick: That's so long ago, I don't remember. Yvonne: Will I see you tonight? Rick: I never make plans that far ahead.": "Casablanca, movie",
 
 "Everyone has a plan until they get punched in the mouth.": "Mike Tyson",
 
@@ -440,7 +450,7 @@ var quotes = {
 
 "We're just doing what we do, re-enacting life as we live it.": "Colin Quinn",
 
-"Yhteistyö on mahdollista, ei tarvitse suoriutua yksin. <br>Tuli palaa vaikka nuotio on sammunut, rauhaa ei tarvitse etsiä metsästä.<br>Se, että polkua ei näe, ei tarkoita, etteikö polkua olisi olemassa.": "?",
+"Yhteistyö on mahdollista, ei tarvitse suoriutua yksin. Tuli palaa vaikka nuotio on sammunut, rauhaa ei tarvitse etsiä metsästä. Se, että polkua ei näe, ei tarkoita, etteikö polkua olisi olemassa.": "?",
 
 "One is not on ones path if not alone. If not alone one is mostly on somebody else’s path.": "Anonymous",
 
@@ -450,7 +460,7 @@ var quotes = {
 
 "To find out who is oppressed, simply find out who you are not allowed to support.": "Kyle Hunt",
 
-"Ihmisen ei tarvitse oikeuttaa olemassaoloaan tekemällä jotain hyödyllistä. Ihminen itse on olemassaolonsa oikeutus.": "Sangharakshita",
+"You don’t have to justify yourself by being useful. You yourself are the justification for your existence.": "Sangharakshita",
 
 "A man must learn to sail in all winds": "Chinese proverb",
 
@@ -485,40 +495,40 @@ var quotes = {
 "Perhaps the greatest myth being purveyed, is that myths are just myths.":
 "Michael Tsarion",
 
-"Why are you smiling?<br>-Why? 'Cos I'm trigger happy, that's why.": "Sledge Hammer",
+"Why are you smiling? -Why? 'Cos I'm trigger happy, that's why.": "Sledge Hammer",
 
-"Allright stud, it's just you and me. Now drop the gun this instant, I know you'd never shoot at a woman. <br>(shoots)<br> - Sorry Francine, call me a feminist.":
+"Allright stud, it's just you and me. Now drop the gun this instant, I know you'd never shoot at a woman. (shoots) - Sorry Francine, call me a feminist.":
 "Sledge Hammer",
 
 "Real men don't apologize. Frankly, I'd rather be shot.": "Sledge Hammer",
 
 "You look under any rock, you know what you'll find? A rock.": "Sledge Hammer",
 
-"Sledge, have a little reverence, they were human beings.<br>- No they weren't, they were rock stars.":
+"Sledge, have a little reverence, they were human beings. - No they weren't, they were rock stars.":
 "Sledge Hammer",
 
-"God works in mysterious ways. <br> - Are you comparing yourself to god?<br> No, just he's methods.":
+"God works in mysterious ways. - Are you comparing yourself to god? No, just he's methods.":
 "Sledge Hammer",
 
-"Sledge, do you believe in The afterlife?<br> - I dont even believe in life.":
+"Sledge, do you believe in The afterlife? - I dont even believe in life.":
 "Sledge Hammer",
 
-"Are you thinking what I'm thinking?<br> - I dont know. I'm thinking of invading afghanistan by myself. What are you thinking?":"Sledge Hammer",
+"Are you thinking what I'm thinking? - I dont know. I'm thinking of invading afghanistan by myself. What are you thinking?":"Sledge Hammer",
 
-"Please you have to help me. <br>- Hey, you're a communist, you're beyond help.":
+"Please you have to help me. - Hey, you're a communist, you're beyond help.":
 "Sledge Hammer",
 
 "I'm not afraid of anything... exept worldpeace.":"Sledge Hammer",
 
-"In Russia we practise shooting dissidents.<br>- Here we call them liberals.": "Sledge Hammer",
+"In Russia we practise shooting dissidents. - Here we call them liberals.": "Sledge Hammer",
 
-"Doreau: I've got an idea.<br>- Now your thinking like a man.":
+"Doreau: I've got an idea. - Now your thinking like a man.":
 "Sledge Hammer",
 
-"Why dont you get your hair done?<br>- You dissappoint me, Doreau. I'm a nihilist, not a stylist.":
+"Why dont you get your hair done? - You dissappoint me, Doreau. I'm a nihilist, not a stylist.":
 "Sledge Hammer",
 
-"Every breath you take, every move you make... I'll be watching you.<br> - That's police talk.": 
+"Every breath you take, every move you make... I'll be watching you. - That's police talk.": 
 "Sledge Hammer",
 
 "All hate is self-hate.":"A.S. Neill",
@@ -547,9 +557,9 @@ var quotes = {
 "Everything you know is wrong.": 
 "Seen on a poster in NY around 1998",
 
-"Kun etsimiseen kyllästyin,<br>opin löytämäänkin<br><br>Kun tuulta vasten heittäydyin,<br>nujersin sään kuin säänkin": "Friedrich Nietzsche, suom. Aarni Kouta",
+"Kun etsimiseen kyllästyin, opin löytämäänkin. Kun tuulta vasten heittäydyin, nujersin sään kuin säänkin. (suom. Aarni Kouta)": "Friedrich Nietzsche",
 
-"Mein Glück. <br><br>Seit ich des Suchens müde ward, <br>Erlernte ich das Finden. <br> Seit mir ein Wind hielt Widerpart, <br> Segl' ich mit allen Winden. <br><br>Since I grew tired of the chase<br> And search, I learned to find;<br> And since the wind blows in my face,<br> I sail with every wind.": "Friedrich Nietzsche",
+"Mein Glück. Seit ich des Suchens müde ward, Erlernte ich das Finden. Seit mir ein Wind hielt Widerpart, Segl' ich mit allen Winden. - Since I grew tired of the chase And search, I learned to find; And since the wind blows in my face, I sail with every wind.": "Friedrich Nietzsche",
 
 "I would rather be a soldier in a garden, than a gardener in a war.": " Anon Soldier",
 
@@ -584,7 +594,7 @@ var quotes = {
 "The price of anything is the amount of life you exchange for it.": "Henry David Thoreau",
 
 "Sankarin pitää tehdä selvä ero menneisyyteen. Seikkailun käynnistää aina kriisi. Muuten ei ole tarinaa. Jos on tyytyväinen saamiinsa vastauksiin, voi pysyä kotona. Kriisi aloittaa matkan. Matka on irtiotto kaikesta, joka on ollut sankarille aiemmin tuttua ja kuljettaa hahmoa vastapäivään. Matka etenee aikaa ja tilaa vastaan, minkä vuoksi suuret tarinat ovat ajattomia.":
-"Joseph Campbell: Klassinen sankarin matka",
+"Joseph Campbell",
 
 "Kun hallintokoneisto paisuu, se muodostaa yhteiskuntaluokan. Se ei enää palvele kansaa eikä siihen pyrikään. Virkakoneisto elää omaa elämäänsä ja kansan on palveltava sitä.": "Erno Paasilinna",
 
@@ -675,7 +685,7 @@ var quotes = {
 "Nothing would be what it is, Because everything would be what it isn´t. And contrary-wise -what it is , it wouldn´t be. And what it wouldn´t be, it would. You see?":
 "Lewis Carroll, Alice in Wonder land",
 
-"We work in the dark<br>We do what we can<br>We give what we have<br>Our doubt is our passion,<br> and our passion is our task<br>The rest is the madness of art.":
+"We work in the dark. We do what we can. We give what we have. Our doubt is our passion, and our passion is our tas. The rest is the madness of art.":
 "Henry James",
 
 "When I picture a perfect reader, I always picture a monster of courage and curiosity, also something supple, cunning, cautious, a born adventurer and discoverer...": "Friedrich Nietzsche",
@@ -704,7 +714,7 @@ var quotes = {
 
 "Your mind will fill in what's left out.":  "Bob Ross",
 
-"The towers are gone now, reduced to bloody rubble, along with all hopes for peace in our time, in the U.S. or any other country. Make no mistake about it: we are at War now- with somebody- and we will stay at war with that strange and mysterious enemy for the rest of our lives.<br><br>It will be a religious war, a sort of christian jihad,fueled by religious hatred and led by merciless fanatics on both sides. It will be guerrilla warfare on a global scale, with no front lines and no identifiable enemy.<br><br>This is going to be an expensive war, and victory is not guaranteed-for anyone, and certainly not for a baffled little creep like George W. Bush. All he knows is that his father started a war a long time ago, and that he, the goofy child- president, has been chosen by fate and the global oil industry to finish it off": "Hunter S. Thompson, Page 90. 'Hey Rube' letter dated September 12, 2001",
+"The towers are gone now, reduced to bloody rubble, along with all hopes for peace in our time, in the U.S. or any other country. Make no mistake about it: we are at War now- with somebody- and we will stay at war with that strange and mysterious enemy for the rest of our lives. It will be a religious war, a sort of christian jihad,fueled by religious hatred and led by merciless fanatics on both sides. It will be guerrilla warfare on a global scale, with no front lines and no identifiable enemy. This is going to be an expensive war, and victory is not guaranteed-for anyone, and certainly not for a baffled little creep like George W. Bush. All he knows is that his father started a war a long time ago, and that he, the goofy child- president, has been chosen by fate and the global oil industry to finish it off": "Hunter S. Thompson, Page 90. 'Hey Rube' letter dated September 12, 2001",
 
 "I believe that school makes complete fools of our young men, because they see and hear nothing of ordinary life there.": "Petronius",
 
@@ -722,7 +732,7 @@ var quotes = {
 
 "I've given up asking questions. l merely float on a tsunami of acceptance of anything life throws at me... and marvel stupidly.": "Terry Gilliam",
 
-"Ante omnia Punctum exstitit…<br><br>Before all things were, there was a Point.": 
+"Ante omnia Punctum exstitit… Before all things were, there was a Point.": 
 "Anonymous, 18th century ‘Le Mystere de la Croix’",
 
 "When a bill is passed, it is often not giving anyone the powers to do anything different, but rather is legalizing what currently happens.": "William Binney",
@@ -735,7 +745,7 @@ var quotes = {
 
 "If you want to be free, simply fly.": "Aleister Crowley",
 
-"“When I use a word,” Humpty Dumpty said, in rather a scornful tone, “it means just what I choose it to mean — neither more nor less.”“The question is,” said Alice, “whether you can make words mean so many different things.”<br><br>“The question is,” said Humpty Dumpty, “which is to be master — that’s all.”": "Lewis Carroll, Through the Looking-Glass",
+"“When I use a word,” Humpty Dumpty said, in rather a scornful tone, “it means just what I choose it to mean — neither more nor less.”“The question is,” said Alice, “whether you can make words mean so many different things.” “The question is,” said Humpty Dumpty, “which is to be master — that’s all.”": "Lewis Carroll, Through the Looking-Glass",
 
 "Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth.": "Oscar Wilde",
 
@@ -761,11 +771,11 @@ var quotes = {
 
 "Wide swaths of the U.S. have been taken over by open air mental institutions. No fences to keep people in. No padded rooms. Just lots of crazy people milling around.": "Kevin, cryptogon",
 
-"A few people seem surprised that the U.S. is a police state.<br>Oh the cops. Oh the poor students. Oh boo hoo, we just want to wave our signs.<br>The don’t taze me bro generation is obviously going to have to figure this one out the hard way.<br>My position has always been that people who wave signs at fascists are clinically nuts; holy roller, speaking in tongues, batshit crazy nuts.<br>Sign waving is not resistance. Sign waving is part of the problem in the same way that voting is part of the problem. How’s that Change working out for the Obama supporters? (Some of those bozos are already talking about how they’re going to get it right in 2012…)<br>In the few video clips of the G20 protests that I watched, I saw a bunch of zombies with iPhones, running around like chickens with their heads cut off, as the Legion of Doom tested out its new sonic weapons and tear gas lobbing skills.<br>WTF is the matter with these people? Where does someone get the idea that the way to deal with Darth Vader is to wave a sign at him? Maybe a few, “Fuck the police” tweets will do the trick? Send out invites to join revolutionary sign waving groups on Facebook?!<br>The Twitbook aspect of this is, frankly, bizarre. Maybe I’ve been out here in the bush too long, but it looks like powerlessness is manifesting itself into a sort of flaccid, me-too technophelia, crossbred with a hamster wheel. This is more embarrassing than anything else.<br>The U.S. is no longer a country. It’s a company town. If waving signs at the company’s goon squad just makes people look stupid, what does twitbooking about it amount to?<br>Here are some other ideas:<br>Eliminate your debt. Take your money off the table. Stop buying stuff that you don’t need. Live well on very little. Grow your own food. Participate in alternative and/or outlawed food economies for what you don’t produce yourself. Barter, or use cash. Support people who do good work. Finally, draw a line in the sand. Don’t tell anyone where that line is, or what the consequences will be if it’s crossed. Don’t wave a sign about it. Don’t twitbook about it. Let the fascists figure it out the hard way. <br>-September 27th, 2009-": "Kevin, cryptogon",
+"A few people seem surprised that the U.S. is a police state. Oh the cops. Oh the poor students. Oh boo hoo, we just want to wave our signs. The don’t taze me bro generation is obviously going to have to figure this one out the hard way. My position has always been that people who wave signs at fascists are clinically nuts; holy roller, speaking in tongues, batshit crazy nuts. Sign waving is not resistance. Sign waving is part of the problem in the same way that voting is part of the problem. How’s that Change working out for the Obama supporters? (Some of those bozos are already talking about how they’re going to get it right in 2012…) In the few video clips of the G20 protests that I watched, I saw a bunch of zombies with iPhones, running around like chickens with their heads cut off, as the Legion of Doom tested out its new sonic weapons and tear gas lobbing skills. WTF is the matter with these people? Where does someone get the idea that the way to deal with Darth Vader is to wave a sign at him? Maybe a few, “Fuck the police” tweets will do the trick? Send out invites to join revolutionary sign waving groups on Facebook?! The Twitbook aspect of this is, frankly, bizarre. Maybe I’ve been out here in the bush too long, but it looks like powerlessness is manifesting itself into a sort of flaccid, me-too technophelia, crossbred with a hamster wheel. This is more embarrassing than anything else. The U.S. is no longer a country. It’s a company town. If waving signs at the company’s goon squad just makes people look stupid, what does twitbooking about it amount to? Here are some other ideas: Eliminate your debt. Take your money off the table. Stop buying stuff that you don’t need. Live well on very little. Grow your own food. Participate in alternative and/or outlawed food economies for what you don’t produce yourself. Barter, or use cash. Support people who do good work. Finally, draw a line in the sand. Don’t tell anyone where that line is, or what the consequences will be if it’s crossed. Don’t wave a sign about it. Don’t twitbook about it. Let the fascists figure it out the hard way. -September 27th, 2009": "Kevin, cryptogon",
 
 "If you cant't change your mind, how do you know you have one?": "Anonymous",
 
-"If one meets a powerful person, ask them five questions: <br><br>- What power have you got?<br>- Where did you get it from?<br>- In whose interests do you exercise it?<br>- To whom are you accountable?<br>- And how can we get rid of you?<br><br>If you cannot get rid of the people who govern you, you do not live in a democratic system.": "Tony Benn",
+"If one meets a powerful person, ask them five questions: - What power have you got? - Where did you get it from? - In whose interests do you exercise it? - To whom are you accountable? - And how can we get rid of you? If you cannot get rid of the people who govern you, you do not live in a democratic system.": "Tony Benn",
 
 "But if you are not experiencing mass hysteria, you might be totally confused by the actions of the people who are. They appear to be irrational, but in ways that are hard to define. You can’t tell if they are stupid, unscrupulous, ignorant, mentally ill, emotionally unstable or what. It just looks frickin’ crazy.": "Scott Adams",
 
@@ -773,7 +783,7 @@ var quotes = {
 
 "We Don’t See Things As They Are, We See Them As We Are.": "?",
 
-"No such thing as spare time, no such thing as free time, no such thing as down time, all you got is life time. <br> Go.": "Henry Rollins",
+"No such thing as spare time, no such thing as free time, no such thing as down time, all you got is life time.  Go.": "Henry Rollins",
 
 "Equality is a lie concocted by inferior people who arrange themselves in herds to overpower those who are naturally superior to them. The morality of 'equal rights' is a herd morality, and because it opposes the cultivation of superior individuals, it leads to the corruption of the human species.": "Friedrich Nietzsche",
 
@@ -835,6 +845,8 @@ var quotes = {
 
 "On a planet that increasingly resembles one huge maximum security prison, the only intelligent choice is to plan a jail break.": "Robert Anton Wilson",
 
+"There are periods of history when the visions of madmen and dope fiends are a better guide to reality than the common-sense interpretation of data available to the so-called normal mind. This is one such period, if you haven’t noticed already.": "Robert Anton Wilson",
+
 "Art is, like magic, the science of manipulating symbols, words or images, to achieve changes in consciousness… Indeed to cast a spell is simply to spell, to manipulate words, to change peoples consciousness, and this is why I believe that an artist or writer is the closest thing in the contemporary world to a shaman.": "Alan Moore",
 
 "Read everything, listen to everybody, believe nothing, unless you can prove it with your own research.": "William Cooper",
@@ -845,7 +857,7 @@ var quotes = {
 
 "Our generation is the first ever to have made the search for self-awareness a crime.": "Alexander Shulgin",
 
-"Briefly stated, the Gell-Mann Amnesia effect is as follows. You open the newspaper to an article on some subject you know well. In Murray's case, physics. In mine, show business. You read the article and see the journalist has absolutely no understanding of either the facts or the issues. Often, the article is so wrong it actually presents the story backward—reversing cause and effect. I call these the \"wet streets cause rain\" stories. Paper's full of them.<br>In any case, you read with exasperation or amusement the multiple errors in a story, and then turn the page to national or international affairs, and read as if the rest of the newspaper was somehow more accurate about Palestine than the baloney you just read. You turn the page, and forget what you know.": "Michael Crichton",
+"Briefly stated, the Gell-Mann Amnesia effect is as follows. You open the newspaper to an article on some subject you know well. In Murray's case, physics. In mine, show business. You read the article and see the journalist has absolutely no understanding of either the facts or the issues. Often, the article is so wrong it actually presents the story backward—reversing cause and effect. I call these the \"wet streets cause rain\" stories. Paper's full of them. In any case, you read with exasperation or amusement the multiple errors in a story, and then turn the page to national or international affairs, and read as if the rest of the newspaper was somehow more accurate about Palestine than the baloney you just read. You turn the page, and forget what you know.": "Michael Crichton",
 
 "If you gain a mature companion, a fellow traveler, right-living & wise, overcoming all dangers go with him, gratified, mindful. If you don't gain a mature companion, a fellow traveler, right-living & wise, wander alone like a king renouncing his kingdom, like the elephant in the Matanga wilds, his herd. We praise companionship — yes! Those on a par, or better, should be chosen as friends. If they're not to be found, living faultlessly, wander alone like a rhinoceros.": "Rhinoceros Sutta",
 
