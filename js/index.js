@@ -7,6 +7,15 @@ const number = _id('number');
 const select = _id('select');
 const quo = _id('quo');
 
+// organize quotes
+// from { author: [quotes] } to { quote: author }
+const quotes = {}
+for (authoor in quotes_data) {
+	quotes_data[authoor].forEach(quote => {
+		quotes[quote] = authoor
+	})	
+};
+
 const quoteKeys = Object.keys(quotes);
 const keysLength = quoteKeys.length;
 let authorCount = {};

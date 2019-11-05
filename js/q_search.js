@@ -3,6 +3,14 @@ const list = document.querySelector('.list');
 const found = document.querySelector('#found');
 const length = document.querySelector('#length');
 
+const quotes = {}
+for (authoor in quotes_data) {
+	quotes_data[authoor].forEach(quote => {
+		quotes[quote] = authoor
+	})	
+};
+
+
 const quotesArr = Object.keys(quotes);
 
 length.innerHTML = quotesArr.length;
